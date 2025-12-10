@@ -1,4 +1,4 @@
-# **Computer Securit💻**
+# **Computer Security💻**
 ## _Explanation of the subject_
 This subject is all about knowing how to keep all our information secure, and avoiding gettind hacked
 ### _Teacher_
