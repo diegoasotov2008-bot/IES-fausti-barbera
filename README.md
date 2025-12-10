@@ -1,7 +1,7 @@
 # IES-fausti-barbera
 _**__Content from aules 2⁰ SMR__**_
 
-
+All information in english as specified
 
 
 
