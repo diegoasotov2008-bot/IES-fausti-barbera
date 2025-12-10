@@ -1,8 +1,10 @@
-# **Web Applications**
+# ****Web Applications****
 
-## **Explication of the subject**
+## _Explication of the subject_
 Here we lear about desktop applications and programming lenguages
-### Teacher
+### _Teacher_
 Sergio Laguna Olmo
-### Course
+### _Course_
 2⁰ SMX
+### _URL_
+https://aules.edu.gva.es/fp/course/view.php?id=187427
